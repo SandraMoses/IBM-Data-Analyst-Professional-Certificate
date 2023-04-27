@@ -1,0 +1,9 @@
+5 labs:
+
+-Introduction to Matplotlib and Line Plots
+-Basic Visualization Tools
+-Specialized Visualization Tools
+-Advanced Visualization Tools
+-Creating Maps and Visualizing Geospatial Data
+
++An Assignment
