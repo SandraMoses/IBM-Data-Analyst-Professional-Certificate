@@ -1,0 +1,7 @@
+Data Collection:
+ 
+1) Collecting Data Using APIs
+
+2) Collecting Data Using Webscraping
+
+3) Exploring Data
